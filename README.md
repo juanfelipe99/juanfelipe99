@@ -7,7 +7,7 @@
 
 Hey, I'm Juan — a mechanical engineer who fell in love with data, code, and building stuff that works (and coffee lover like any good Colombian ☕).
 
-I'm from Colombia and I'm currently studying a Master's in Software Engineering and have a background in data engineering and analytics.
+I'm currently studying a Master's in Software Engineering and have a background in data engineering and analytics.
 
 ## 🧠 Tech Stack
 
