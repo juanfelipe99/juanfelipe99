@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-juanfeqr@outlook.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfeqr@outlook.com)
 
-Hey, I'm Juan — a mechanical engineer who fell in love with data, code, and building stuff that works (and coffee lover like any good Colombian ☕).
+Hey, I'm Juan — a mechanicala and data engineer who fell in love with data, code, and building stuff that works (and coffee lover like any good Colombian ☕).
 
 I'm currently studying a Master's in Software Engineering and have a background in data engineering and analytics.
 
