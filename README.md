@@ -6,44 +6,22 @@
 
 Hey, I'm Juan — a mechanical engineer who fell in love with data, code, and building stuff that works (and coffee lover like any good Colombian ☕).
 
-I'm from Colombia and currently studying a Master's in Software Engineering and have a background in data engineering and analytics.
+I'm from Colombia and I'm currently studying a Master's in Software Engineering and have a background in data engineering and analytics.
 
 ## 🧠 Tech Stack
 
-### 🎯 Top Tier Tools
-🥇 Python
-
-🥈 SQL
-
-🥉 JavaScript / TypeScript
-
-### 🧱 Data Engineering Core
-* PostgreSQL
-
-* Databricks
-
-* Apache Spark
-
-### 🛠 Orchestration & Cloud
-* Airflow
-
-* Azure & AWS
-
-### 💻 Fullstack Energy
-
-* React
-
-* Node.js
-
-* MongoDB
+**Top Tier:** 🐍 Python • 🧠 SQL • ⚡ JavaScript/TypeScript  
+**Data Core:** 🐘 PostgreSQL • 🧱 Databricks • 🔥 Spark  
+**Cloud & Ops:** ☁️ Azure / AWS • ⏱️ Airflow  
+**Fullstack:** ⚛️ React • 🧩 Node.js • 🍃 MongoDB
 
 ## 🔧 What I Build
 
-- **Data Pipelines** – From raw CSVs to clean dashboards.
-- **Automation Scripts** – For the lazy engineer in all of us.
-- **APIs** – Fast, lightweight, testable.
-- **Dashboards** – Because "just use Excel" is not a lifestyle.
-- **Web Apps** – When I need a UI to prove my backend works.
+🛠️ **Data Pipelines** – bronze → silver → gold  
+⚙️ **Automation Scripts** – repetitive tasks = gone  
+🌐 **APIs** – fast, lightweight, testable  
+📊 **Dashboards** – because Excel isn’t always enough  
+🖥️ **Web Apps** – bringing backend logic to life
 
 ---
 
