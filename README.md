@@ -2,6 +2,7 @@
 # 👨‍🔧 Hello there, I'm Juan F. Quiñonez!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-quinonez/)
+
 [![Email](https://img.shields.io/badge/Email-juanfeqr@outlook.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfeqr@outlook.com)
 
 Hey, I'm Juan — a mechanical engineer who fell in love with data, code, and building stuff that works (and coffee lover like any good Colombian ☕).
