@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-quinonez/)
 
-[![Email](https://img.shields.io/badge/Email-juanfeqr@outlook.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfeqr@outlook.com)
+[![Email](https://img.shields.io/badge/Email-juanfeqr@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:juanfeqr@proton.me)
 
 Hey, I'm Juan — a mechanical and data engineer who fell in love with data, code, and building stuff that works (and coffee lover like any good Colombian ☕).
 
